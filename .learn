@@ -1,7 +1,8 @@
 tags:
   - readme
   - git
+  - Pull Request
+  Push Request
 languages:
   - ruby
-resources:
-  - 0
+
